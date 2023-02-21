@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <GifCard /> Debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="bg-violet-500 border-b-4 border-r-4 border-violet-500 rounded-lg shadow-2xl shadow-stone-500"
+  >
+    <img
+      alt="fullmetal alchemist GIF by Funimation"
+      class="h-56 w-full border border-b-0 border-stone-900 rounded-t-md object-cover"
+      src="https://media2.giphy.com/media/BSxFhxneZPCvK/giphy.gif?cid=32e67b780vn6ocq2w42enft34s4oawzg4eyfjpheg4n0mzr2&rid=giphy.gif&ct=g"
+    />
+    <div
+      class="h-12 w-full flex items-center justify-center bg-teal-200 border border-t-0 border-stone-900 rounded-b-md"
+    >
+      <span
+        class="text-center text-md text-stone-900 font-semibold"
+      >
+         
+        fullmetal alchemist GIF by Funimation
+         
+      </span>
+    </div>
+  </div>
+</div>
+`;

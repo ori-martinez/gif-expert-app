@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del <GifExpertApp /> Debe hacer match con el snapshot 1`] = `
+<div>
+  <h1
+    class="p-2 m-4 text-center text-4xl text-teal-600 font-bold"
+  >
+     GifExpert App 
+  </h1>
+  <form
+    aria-label="form"
+    class="flex justify-center"
+  >
+    <input
+      class="p-1 pl-2 my-4 w-2/5 text-lg text-stone-900 border border-stone-900 rounded-lg placeholder:text-stone-400 focus:outline-none focus:ring focus:ring-violet-300"
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <div
+    class="mx-auto mt-6 w-4/5"
+  >
+    <h3
+      class="ml-12 p-3 text-3xl text-teal-500 font-bold"
+    >
+       
+      Fullmetal Alchemist
+       
+    </h3>
+  </div>
+  <h2
+    class="text-center text-4xl text-stone-900 font-bold"
+  >
+     Cargando... 
+  </h2>
+  <div
+    class="mx-auto my-4 w-4/5 grid grid-cols-3 gap-12 rounded-lg"
+  />
+</div>
+`;
