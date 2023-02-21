@@ -15,7 +15,7 @@ describe('Pruebas del hook useFetchGifs()', () => {
         expect(isLoading).toBeTruthy();
     });
 
-    // PRUEBA DE FUNCIONALIDAD DEL useEffect()
+    // PRUEBA DE FUNCIONALIDAD DEL useEffect() EN EL HOOK
     test('El hook debe retornar un arreglo de gifs y el isLoading en false', async () => {
         // CONSTANTES
         /* Resultado de la Renderización del Hook */
